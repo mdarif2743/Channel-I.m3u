@@ -94,7 +94,7 @@ http://103.175.73.12:8080/live/9/9_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Entertainment",Dangal
-
+http://103.175.73.12:8080/live/17/17_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="Entertainment",Shemaroo TV
@@ -148,7 +148,7 @@ http://103.175.73.12:8080/live/9/9_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National
-
+http://103.175.73.12:8080/live/15/15_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_North_East.png" group-title="Entertainment",DD North East
@@ -214,98 +214,199 @@ http://198.27.83.207:8888/ZEE_TAMIL_SD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English",Colors Infinity HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+http://103.175.73.12:8080/live/28/28_0.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="English",Disney International HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_International_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="English",Star Movies HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="English",Star Movies Select HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="English",Sony Pix HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPIX_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="English",&Flix HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/AndFlixHD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="English",&Prive HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/AndPriveHD_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="English",Movies Now HD
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd?__hdnea__=st=1771050752~exp=1771137152~acl=/*~hmac=3166015b213e67390aac5af7eb0bbaefcda2e7e239e7f47a54e8e6c17ec92d93
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MNPLUS.png" group-title="English",MN+ HD
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd?__hdnea__=st=1771050752~exp=1771137152~acl=/*~hmac=3166015b213e67390aac5af7eb0bbaefcda2e7e239e7f47a54e8e6c17ec92d93
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English",MNX HD
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd?__hdnea__=st=1771050752~exp=1771137152~acl=/*~hmac=3166015b213e67390aac5af7eb0bbaefcda2e7e239e7f47a54e8e6c17ec92d93
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="English",Romedy Now
-https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd?__hdnea__=st=1771050752~exp=1771137152~acl=/*~hmac=3166015b213e67390aac5af7eb0bbaefcda2e7e239e7f47a54e8e6c17ec92d93
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="English",Zee Cafe HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeCafeHD_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BHI.png" group-title="Bengali",BHI Channel
-https://jiotvmblive.cdn.jio.com/bpk-tv/BHI_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="Bengali",Star Jalsha HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="Bengali",Star Jalsha
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Jalsha_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" group-title="Bengali",Zee Bangla HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaHD_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyAATH.png" group-title="Bengali",Sony aath
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyAATH_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Bengali",Colors Bangla HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bengali_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Bengali",Colors Bangla Cinema
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="Bengali",Zee 24 Ghanta
-https://jiotvmblive.cdn.jio.com/bpk-tv/24_Ghanta_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bengali",Aakash Aath
-https://jiotvmblive.cdn.jio.com/bpk-tv/Aakaash_bangla_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="Bengali",ABP Ananda
-https://jiotvmblive.cdn.jio.com/bpk-tv/ABP_Ananda_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bangla_Bhakti.png" group-title="Bengali",Bangla Bhakti
-https://jiotvmblive.cdn.jio.com/bpk-tv/Bangla_Bhakti_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bangla_Jago.png" group-title="Bengali",Bangla Jago
-https://jiotvmblive.cdn.jio.com/bpk-tv/Bangla_Jago_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" group-title="Bengali",Calcutta News
-https://jiotvmblive.cdn.jio.com/bpk-tv/Calcutta_News_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png" group-title="Bengali",Ctvn Akd Plus
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ctvn_Akd_Plus_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c48459
+
+
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dhoom_Music_Bangla.png" group-title="Bengali",Dhoom Music Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/Dhoom_Music_Bangla_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bengali",Jalsha Movies HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsha_Movies.png" group-title="Bengali",Jalsha Movies
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsha_Movies_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="Bengali",Kolkata TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/Kolkata_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tribe_TV.png" group-title="Bengali",KTV Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/Tribe_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png" group-title="Bengali",News Time TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/News_Time_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18Bangla.png" group-title="Bengali",News18 Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Bangla_News_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Indradhanu.png" group-title="Bengali",Newslive Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/Indradhanu_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NKTV_Bangla.png" group-title="Bengali",NK TV Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/NKTV_Bangla_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/R_Bangla.png" group-title="Bengali",R Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/R_Bangla_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RPLUS.png" group-title="Bengali",R Plus
-https://jiotvmblive.cdn.jio.com/bpk-tv/RPLUS_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="Bengali",Rongeen TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" group-title="Bengali",Rupashi Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/Rupashi_Bangla_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Kolkata.png" group-title="Bengali",Samay Kolkata
-https://jiotvmblive.cdn.jio.com/bpk-tv/Samay_Kolkata_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Bengali",Sangeet Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sangeet_Bangla_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Bengali",Sonic Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Bangla_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Spondon.png" group-title="Bengali",Spondon
-https://jiotvmblive.cdn.jio.com/bpk-tv/Spondon_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sristi_TV.png" group-title="Bengali",Sristi TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sristi_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Bengali",Sun Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Bangla_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tara_TV.png" group-title="Bengali",Tara TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/Tara_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png" group-title="Bengali",TV9 Bangla
 https://jiotvmblive.cdn.jio.com/bpk-tv/TV9_Bangla_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/U_Bangla.png" group-title="Bengali",U Bangla
@@ -1369,6 +1470,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Gj_Desi_News_BTS/output/index.mpd?__hdnea
 https://jiotvmblive.cdn.jio.com/bpk-tv/GS_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gujarat_Wild_TV.png" group-title="Gujarati",Gujarat  Wild TV
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gujarat_Wild_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
 
 
 

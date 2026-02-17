@@ -1,50 +1,87 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/1199/1752742701199-h" group-title="Hotstar",q_90,w_384/sources/r1/cms/prod/1199/1752742701199-h" group-title="Hotstar",Star Vijay Super Singer
-https://livetv.hotstar.com/mp2/gec-india/c65ada10b4604667a9cd9495f1387e87/index_7.m3u8?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/7405/1752743467405-h" group-title="Hotstar",q_90,w_256/sources/r1/cms/prod/7405/1752743467405-h" group-title="Hotstar",Star Vijay Classic
-https://livetv.hotstar.com/mp2/gec-india/068ea5304f1841f4ac839311c7f539b8/index_7.m3u8?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/4044/1752743564044-h" group-title="Hotstar",q_90,w_256/sources/r1/cms/prod/4044/1752743564044-h" group-title="Hotstar",Star Vijay Movie Time
-https://livetv.hotstar.com/mp1/gec-india/4651958e6bd142a48cf1b512257b130a/index_7.m3u8?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/8708/1752743198708-h" group-title="Hotstar",q_90,w_256/sources/r1/cms/prod/8708/1752743198708-h" group-title="Hotstar",Star Vijay Kalakkal Comedy
-https://livetv.hotstar.com/mp2/gec-india/bfe09a877cc4458dbc75f05b56d7e1ed/index_7.m3u8?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/3380/1752743343380-h" group-title="Hotstar",q_90,w_256/sources/r1/cms/prod/3380/1752743343380-h" group-title="Hotstar",Star Vijay Fun Games
-https://livetv.hotstar.com/mp1/gec-india/04b034555d63400d9bc304bf91950874/index_7.m3u8?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
+
+
+
+
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/2214/1750777602214-h" group-title="Hotstar",q_90,w_384/sources/r1/cms/prod/2214/1750777602214-h" group-title="Hotstar",TATA IPL TV
-https://livetv.hotstar.com/mp2/gec-india/faffc00f9fc7402db40108fd87c2d53e/index_7.m3u8?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5745/1750779565745-h" group-title="Hotstar",q_90,w_384/sources/r1/cms/prod/5745/1750779565745-h" group-title="Hotstar",Star Sports Cricket Classic
-https://livetv.hotstar.com/mp1/gec-india-hotstartv/3e222014b2524730ad86d0a8457ca5c1/index_7.m3u8?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/3639/1756796893639-h" group-title="Hotstar",q_90,w_384/sources/r1/cms/prod/3639/1756796893639-h" group-title="Hotstar",T20s TV
-https://livetv.hotstar.com/mp2/gec-india/60b51adb7eae4ae492e6ba6c156a1efe/index_7.m3u8?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg" group-title="Hotstar",w_450,h_253/v3Storage/assets/ct-1644165913136.jpg" group-title="Hotstar",Colors Tamil HD
-https://jcevents.hotstar.com/bpk-tv/JC_ColorsTamilHD/JCHLS/JC_ColorsTamilHD.m3u8?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
+
+
+
+
 #EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png" group-title="Hotstar",Star Sports 2 Tamil
-https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h" group-title="Hotstar",q_90,w_1920/sources/r1/cms/prod/7430/567430-h" group-title="Hotstar",Star Sports 1 HD
-https://livetv-push.hotstar.com/dash/live/2002464/sshd1livetvwv/master.mpd?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
+
+
+
+
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="Hotstar",q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="Hotstar",Star Sports 2 HD
-https://livetv-push.hotstar.com/dash/live/2002465/sshd2livetvwv/master.mpd?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
+
+
+
+
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7409/567409-h" group-title="Hotstar",q_90,w_1920/sources/r1/cms/prod/7409/567409-h" group-title="Hotstar",Star Vijay
-https://livetv.hotstar.com/mp1/gec-india-1540057060/15ef978ea9f449a2a8c97f7c05e618c5/index.mpd?%7CCookie=hdntl=exp=1771343869~acl=%2f*~id=5f33a9250bcf4fa4a00bfe0adb8f342b~data=hdntl~hmac=9d75ea512a441079307e078cc86344e216aedfba44a02fab8439c27b2bbf729a&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
+
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+http://103.175.73.12:8080/live/1/1_0.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Entertainment",Star Bharat HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+http://103.175.73.12:8080/live/3/3_0.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png" group-title="Entertainment",And TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" group-title="Entertainment",Sony SAB HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+http://103.175.73.12:8080/live/5/5_0.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png" group-title="Entertainment",Zee TV HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Entertainment",Colors HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+http://103.175.73.12:8080/live/7/7_0.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="Entertainment",Colors Rishtey
-https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsRishtey_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+http://103.175.73.12:8080/live/12/12_0.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png" group-title="Entertainment",Sony Pal
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+http://103.175.73.12:8080/live/11/11_0.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="Entertainment",Star Utsav
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmol.png" group-title="Entertainment",Zee Anmol
@@ -1441,6 +1478,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Gj_Desi_News_BTS/output/index.mpd?__hdnea
 https://jiotvmblive.cdn.jio.com/bpk-tv/GS_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gujarat_Wild_TV.png" group-title="Gujarati",Gujarat  Wild TV
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gujarat_Wild_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
 
 
 

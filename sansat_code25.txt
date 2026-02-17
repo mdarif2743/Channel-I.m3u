@@ -526,286 +526,314 @@ http://103.175.73.12:8080/live/42/42_0.m3u8
 
 
 
-https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",All Time Movies (576p)
-http://103.78.149.54:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Anmol Cinema (576p)
-http://103.78.149.54:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Anmol Cinema 2 (576p)
-http://161.248.38.40:8000/play/a07q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Movies",B4U Bhojpuri (1080p)
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="Movies",B4U Kadak (1080p) [Geo-blocked]
-https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies (1080p) [Geo-blocked]
-https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5CtiQ45.png" group-title="Movies",Bflix Movies (576p)
-https://mumt03.tangotv.in/BFLIX/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="Movies",Bhojpuri Cinema (720p)
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Movies",Box Cinema
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=kU8ru-Yl4zG
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png" group-title="Movies",Colors Cineplex Bollywood (576p)
-http://103.182.170.32:8888/play/a01o
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png" group-title="Movies",Colors Cineplex Superhits (576p)
-http://103.78.149.54:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png" group-title="Movies",Dhamaka Movies B4U (576p)
-https://cdn-1.pishow.tv/live/235/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_CINEMA/images/LOGO_HD/image.png" group-title="Movies",ETV Cinema HD (1080p)
-https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FILAMCHI_BHOJPURI/images/LOGO_HD/image.png" group-title="Movies",Filamchi Bhojpuri (1080p)
-https://epiconvh.akamaized.net/live/filamchi/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movies",Goldmines (576p)
-http://103.78.149.54:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_Transparent_9b7db248-999e-4200-a459-6cc594650f3d.png" group-title="Movies",Goldmines Movies (576p)
-http://103.78.149.54:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_J_MOVIES/images/LOGO_HD/image.png" group-title="Movies",J Movie (576p)
-http://161.248.38.40:8000/play/a09p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="Movies",Jalsha Movies HD (1080p)
-http://103.229.254.25:7001/play/a0dt/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" group-title="Movies",Kairali We (576p)
-https://cdn-3.pishow.tv/live/1530/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KTV/images/LOGO_HD/image.png" group-title="Movies",KTV
-http://198.27.83.207:2550/KTV_SD/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies",Maha Movie (576p)
-https://cdn-6.pishow.tv/live/10007/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qfMEz78.png" group-title="Movies",Manoranjan Grand (576p)
-http://103.78.149.54:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Manoranjan Movies (576p)
-http://103.78.149.54:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" group-title="Movies",MNX (576p)
-http://161.248.38.40:8000/play/a07f/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="Movies",Oscar Movies Bhojpuri (576p)
-http://103.78.149.54:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png" group-title="Movies",Pitaara (720p)
-https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Public Movies (576p)
-https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png" group-title="Movies",Raj Digital Plus (1080p)
-https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" group-title="Movies",Roja Movies (1080p)
-https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" group-title="Movies",Romedy Now (576p)
-http://161.248.38.40:8000/play/a07r/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png" group-title="Movies",Shemaroo Josh (720p)
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RQhorAG.png" group-title="Movies",Shubh Cinema TV (720p)
-https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Movies",Sony Pix HD (1080p)
-http://103.229.254.25:7001/play/a0ed/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png" group-title="Movies",Sony Wah (576p)
-http://103.78.149.54:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="Movies",Star Gold 2 (576p)
-http://161.248.38.40:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="Movies",Star Gold 2 HD (1080p)
-http://103.229.254.25:7001/play/a0d0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Movies",Star Gold HD (1080p)
-http://103.229.254.25:7001/play/a0dd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies",Star Gold Select HD (1080p)
-http://103.229.254.25:7001/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="Movies",Star Gold Thrills (576p)
-http://161.248.38.40:8000/play/a06v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="Movies",Star Utsav Movies (576p)
-http://103.78.149.54:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies",Studio One + (720p)
-https://cdn-1.pishow.tv/live/276/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png" group-title="Movies",Suriyan TV (576p)
-https://stream.sscloud7.com/live/suriyantv/index.m3u8
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="Movies",Thalaa TV (1080p)
-https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png" group-title="Movies",Tolly TV (1080p)
-https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Action (576p)
-http://103.78.149.54:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Biskope (576p)
-http://103.78.149.54:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512" group-title="Movies",Zee Bollymovies (1080p) [Geo-blocked]
-https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512" group-title="Movies",Zee Bollymovies Australia (1080p) [Geo-blocked]
-https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Bollywood (576p)
-http://161.248.38.40:8000/play/a075/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZZ40.png" group-title="Movies",Zee Chitramandir (576p)
-http://103.78.149.54:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies",Zee South Flix (1080p)
-https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" group-title="Sports",Star Sports 2 HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png" group-title="Sports",Star Sports 3
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil_HD.png" group-title="Sports",Star Sports 1 Tamil HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Tamil_HD.png" group-title="Sports",Star Sports 2 Tamil HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="Sports",Star Sports 1 HD Hindi
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports",Star Sports Khel
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sports18_Khel_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="Sports",Star Sports Select 1 HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="Sports",Star Sports Select 2 HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Sports",Sony LIV Sports 5
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Ten 1 HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",Sony Ten 1
-https://jiotvmblive.cdn.jio.com/bpk-tv/India_News_MP_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",Sony Ten 2 HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten2_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports",Sony Ten 3 Hindi
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Ten 5 HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Six_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_.png" group-title="Sports",Sony Ten 5
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Sports",SonyLIV Sports 1
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Sports",SonyLIV Sports 2
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Sports",SonyLIV Sports 3
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AWSN.png" group-title="Sports",All Women's Sports Network
-https://jiotvmblive.cdn.jio.com/bpk-tv/AWSN_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD Sports
-https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Sports_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png" group-title="Sports",ESG TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/ESG_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports",Eurosport HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Dsports_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="Sports",Jio Sports HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jio_Sports_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="Sports",JioGames HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jio_Esports_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lancs_TV_HD.png" group-title="Sports",Lancs TV HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Lancs_TV_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Sports",MI TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/MI_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pickleball_Now.png" group-title="Sports",Pickleball Now
-https://jiotvmblive.cdn.jio.com/bpk-tv/Pickleball_Now_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="Sports",Red Bull TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/Red_Bull_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",RTA Sports
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png" group-title="Sports",DD Sports (576p)
-http://103.78.149.54:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png" group-title="Sports",DD Sports HD (1080p)
-http://103.78.149.54:8000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 2 HD (1080p)
-http://103.229.254.25:7001/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/LOGO_HD_image.png" group-title="Sports",Sony Sports Ten 3 Hindi (576p)
-http://103.229.254.25:7001/play/a09q/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 5 HD (1080p)
-http://103.229.254.25:7001/play/a0dw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD (1080p)
-http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (576p)
-http://161.248.38.40:8000/play/a071/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi HD (1080p)
-http://161.248.38.40:8000/play/a06n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eWPoUxB.png" group-title="Sports",Star Sports 2 Tamil (1080p)
-http://103.229.254.25:7001/play/a0d1/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
-https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png" group-title="Kids",Disney Junior
-https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="Kids",Hungama
-https://jiotvmblive.cdn.jio.com/bpk-tv/Hungama_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="Kids",Super Hungama
-https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png" group-title="Kids",Sony YAY!
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYHin_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gubbare.png" group-title="Kids",Gubbare
-https://epiconvh.akamaized.net/live/gubbare/master.m3u8?__hdnea__=st=1771050752~exp=1771137152~acl=/*~hmac=3166015b213e67390aac5af7eb0bbaefcda2e7e239e7f47a54e8e6c17ec92d93
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids",Discovery Kids
-https://jiotvmblive.cdn.jio.com//bpk-tv/DiscoveryKidsHin_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids",Nick HD+
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/output/index.mpd?
+
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",Nick Junior
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Junior_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Kids",Animax
-https://jiotvmblive.cdn.jio.com/bpk-tv/Animax_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHDHindi.png" group-title="Kids",Cartoon Network HD+
-https://jiotvmblive.cdn.jio.com/bpk-tv/CNHDHindi_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network
-https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" group-title="Kids",HooplaKidz TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/Hoopla_Kids_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
-https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Hindi_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Power_Kids_TV.png" group-title="Kids",Power Kids TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/Power_Kids_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",Sonic
-https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Hindi_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids",BBC Cbeebies
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids",Duck TV
-https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids",Unnamed Channel
-https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",ZB Cartoon
-https://server.zillarbarta.com/zbcatun/video.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids",Zoo Moo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="Kids",Chithiram (576p)
-https://cdn-6.pishow.tv/live/1243/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (576p)
-http://161.248.38.40:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Disney Junior (576p)
-http://161.248.38.40:8000/play/a068/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr. (576p)
-http://161.248.38.40:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon (576p)
-http://103.229.254.25:7001/play/a0cq/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (576p)
-http://103.229.254.25:7001/play/a0dl/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="Infotainment",Sony BBC Earth HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="Infotainment",Discovery
-https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Infotainment",Discovery HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryHDHin_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryScienceHin.png" group-title="Infotainment",Discovery Science
-https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryScienceHin_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo
-https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Turbo_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="Infotainment",Nat Geo Wild HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" group-title="Infotainment",Animal Planet HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHDHin_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Infotainment",DD bharati
-https://jiotvmblive.cdn.jio.com/bpk-tv/DD_bharati_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Infotainment",DD Kisan
-https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Kisan_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c48459381
+
+
+
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Infotainment",History TV18 HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/History_HD_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHDHindi.png" group-title="Infotainment",Investigation Discovery HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/IDHDHindi_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Infotainment",Jio Events HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jio_Events_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="Infotainment",Wild Earth
-https://jiotvmblive.cdn.jio.com/bpk-tv/Wild_Earth_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
-https://jiotvmblive.cdn.jio.com/bpk-tv/YRF_Music_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",ZOOM
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd?__hdnea__=st=1771050752~exp=1771137152~acl=/*~hmac=3166015b213e67390aac5af7eb0bbaefcda2e7e239e7f47a54e8e6c17ec92d93
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Music_Station.png" group-title="Music",Desi Music Station
-https://jiotvmblive.cdn.jio.com/bpk-tv/Desi_Music_Station_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Music",E 24
 https://jiotvmblive.cdn.jio.com/bpk-tv/E_24_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" group-title="Music",Insync
@@ -1518,6 +1546,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Gj_Desi_News_BTS/output/index.mpd?__hdnea
 https://jiotvmblive.cdn.jio.com/bpk-tv/GS_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gujarat_Wild_TV.png" group-title="Gujarati",Gujarat  Wild TV
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gujarat_Wild_TV_BTS/output/index.mpd?__hdnea__=st=1771227362~exp=1771313762~acl=/*~hmac=c4e7c9fe16d4c57551f3f2b240686ac3975a7a30403e966c503e88c484593811
+
 
 
 

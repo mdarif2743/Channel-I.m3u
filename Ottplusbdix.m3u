@@ -135,6 +135,21 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Cartoon Network
 https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 
+#EXTINF:-1 tvg-id="nick" tvg-logo="http://monirul.bro.bd/assets/images/NICK1745041451.png" group-title="Kids",NICK
+http://103.185.24.134:3001/NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="hungama" tvg-logo="http://monirul.bro.bd/assets/images/HUNGAMA1745041551.png" group-title="Kids",HUNGAMA
+http://103.185.24.134:3001/HUNGAMA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="SM_IPTV",Sonic Bangla
+http://103.185.24.134:3001/SONIC/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/02/Disney-Kids-Network-to-launch-new-kids-channel-%E2%80%98Super-Hungama%E2%80%99.jpg" group-title="KIDS", SUPER HUNGAMA
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.exchange4media.com/news-photo/112560-pic161.jpg" group-title="KIDS", ETV BAL BHARAT
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Discovery
 
 

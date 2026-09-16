@@ -263,9 +263,6 @@ http://103.155.18.186:8000/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/CbCVfZ4BOObeQ4xxZOla/posters/2c4a5c4a-ae9a-4ff8-b282-d4e45586fd30.png" tvg-id="117" tvg-name="sony-sab-hd" ,Sony SAB HD
 http://103.155.18.186:8000/play/a025/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="HINDI",Star Gold HD
-http://103.155.18.186:8000/play/a02a/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="HINDI",Star Gold 2 SD
 http://103.155.18.186:8000/play/a02d/index.m3u8
 

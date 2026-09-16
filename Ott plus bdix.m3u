@@ -176,24 +176,16 @@ http://38.96.178.205/ZEE_TV/index.m3u8
 https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Pakistan" group-title="Entertainment",ARY Digital Asia HD
-https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
+https://cdn4.mjunoon.tv:8087/streamtest/84M/chunks.m3u8
 
 #EXTINF:-1 tvg-id="GreenEntertainment.pk" tvg-logo="https://i.imgur.com/yCsAX7R.png" group-title="Pakistan" group-title="Entertainment",Green Entertainment HD
-https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
-
-#EXTINF:-1 tvg-id="ARYZindagi.pk" tvg-logo="https://i.ibb.co/PGjDpGt0/ARY-Zindagi.png" group-title="Pakistan" group-title="Entertainment",ARY Zindagi
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-M/chunks.m3u8
+https://cdn4.mjunoon.tv:8087/streamtest/166M/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HumTV.pk" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="Pakistan" group-title="Entertainment",Hum Entertainment HD
-https://cdn01.medialive.one:2096/HUMENTFHD/index.m3u8
+https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HumSitaray.pk@HD" tvg-logo="https://i.imgur.com/D0A0eUJ.png" group-title="Pakistan" group-title="Entertainment",Hum Sitaray
 https://cdn4.mjunoon.tv:8087/streamtest/157-4M/chunks.m3u8
-
-#EXTINF:-1 tvg-id="ASports.pk" tvg-logo="https://i.imgur.com/EVJuFRs.png" group-title="Pakistan" group-title="Sports",A Sports
-https://cdn01.medialive.one:2096/ASPORTSFHD/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="natgeo_hd" tvg-logo="http://monirul.bro.bd/assets/images/NATGEO HD1745038634.png" group-title="English",NATGEO HD
 http://103.185.24.134:3001/NATGEO-HD/index.m3u8

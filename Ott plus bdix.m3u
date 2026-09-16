@@ -55,5 +55,5 @@ https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="1338" tvg-chno="606" tvg-name="sony-sports-2-hd" tvg-language="ENG" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports", Sony Sports 2 HD
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/index.m3u8
 
-#EXTINF:-1 tvg-id="237" tvg-chno="608" tvg-name="sony-sports-5-hd" tvg-language="HIN" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="All Channels", Sony Sports 5 HD
+#EXTINF:-1 tvg-id="237" tvg-chno="608" tvg-name="sony-sports-5-hd" tvg-language="HIN" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Sports", Sony Sports 5 HD
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/index.m3u8

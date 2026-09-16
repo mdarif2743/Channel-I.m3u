@@ -9,3 +9,42 @@ https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Cartoon Network
+https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Discovery
+https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Investigation Discovery
+https://stream.ottplus.live/live/id_hd_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Sony BBC Earth HD
+https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Sony Max HD
+https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Sony Max 2
+https://stream.ottplus.bd/live/max_2_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Zee Action
+https://stream.ottplus.live/live/zee_action_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Zee Bollywood
+https://stream.ottplus.bd/live/zee_bollywood_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",Bijoy TV
+https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",Ekhon TV
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sumon",ZEE Cinema
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sumon",ZEE Bangla
+https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8?nimblesessionid=58189383
+
+#EXTINF:-1 tvg-logo="" group-title="Sumon",Sony ATT
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8

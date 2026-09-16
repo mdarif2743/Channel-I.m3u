@@ -32,7 +32,7 @@ https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Zee Bollywood
-
+https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BANGLA",Bijoy TV
 https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
@@ -75,3 +75,32 @@ https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 
 #EXTINF:-1 ,Zee Bangla Cinema
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Asian TV
+https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png",Zee Tv
+https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png",HUM TV
+https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Bangla TV
+https://stream.ottplus.live/live/bangla_tv_hd_abr/live/bangla_tv_hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="DeshTV.bd" tvg-name="Desh TV [Backup 1]" tvg-logo="https://i.imgur.com/ItrZok1.png" tvg-chno="43" group-title="Bangladesh",Desh TV
+https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="EkattorTV.bd" tvg-name="Ekattor TV [Backup 2]" tvg-logo="https://i.imgur.com/zoLwwUK.png" tvg-chno="51" tvg-language="Bangla" tvg-country="Bangladesh" group-title="Bangladesh",Ekattor TV
+https://stream.ottplus.live/live/ekattor_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV [Backup 1]" tvg-logo="https://www.jamuna.tv/uploads/settings/jtv-logo-whitelogo-1-1754573204.png" tvg-chno="74" group-title="Bangladesh",Jamuna TV
+https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="MohonaTV.bd" tvg-name="Mohona TV [Backup 1]" tvg-logo="https://i.imgur.com/E6doEWH.png" tvg-chno="81" group-title="Bangladesh",Mohona TV
+https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="NagorikTV.bd" tvg-name="Nagorik TV [Backup 1]" tvg-logo="https://i.postimg.cc/Z54fVGww/20240822_230947.png" tvg-chno="90" group-title="Bangladesh",Nagorik TV
+https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+
+

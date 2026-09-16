@@ -57,3 +57,24 @@ https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/index.m3u8
 
 #EXTINF:-1 tvg-id="237" tvg-chno="608" tvg-name="sony-sports-5-hd" tvg-language="HIN" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Sports", Sony Sports 5 HD
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/index.m3u8
+
+#EXTINF:-1 ,Sony TV
+https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/8Q8MCd6ypr2Hzbp60VE_stJPl063kQYfeTxdIQkAXRfhdzxByLl0sJYHsk43uTM4W_cOzwcbPQ=s160-c-k-c0x00ffffff-no-rj",123.Channel 24
+https://stream.ottplus.live/live/channel_24_abr/index.m3u8
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png",135.Global TV
+https://stream.ottplus.live/live/global_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="nexustv" tvg-name="Nexus TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvCrlb7xmKGKrsrDbJSJ8hGTlvEidzrp29PJz60DT7KjVt4QzG2Yzd7I&s=10.png" group-title="BANGLA",147.Nexus TV
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
+
+#EXTINF:-1, sony
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
+
+#EXTINF:-1, sony sd
+https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
+
+#EXTINF:-1 ,Zee Bangla Cinema
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8

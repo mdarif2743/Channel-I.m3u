@@ -1,3 +1,15 @@
+#EXTINF:-1 tvg-id="btvhd" tvg-logo="http://monirul.bro.bd/assets/images/BTV.HD1750866438.png" group-title="Bangla",BTV.HD
+http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
+
+#EXTINF:-1 tvg-chno="112" tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",বিটিভি চট্টগ্রাম
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+
+#EXTINF:-1 tvg-chno="113" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BTV_News_Logo.svg/1280px-BTV_News_Logo.svg.png" group-title="BANGLADESH", বিটিভি নিউজ
+http://livetv.akr4m.com:8080/bdtv/restrem/13.m3u8
+
+#EXTINF:-1 tvg-chno="114" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/sangsad-television-bd.png" group-title="BANGLADESH", সংসদ বাংলাদেশ
+http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="",Duronto TV
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 
@@ -103,4 +115,9 @@ https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="NagorikTV.bd" tvg-name="Nagorik TV [Backup 1]" tvg-logo="https://i.postimg.cc/Z54fVGww/20240822_230947.png" tvg-chno="90" group-title="Bangladesh",Nagorik TV
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="MovieBangla.bd" tvg-name="Movie Bangla [Backup 2]" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" tvg-chno="85" group-title="Bangladesh",Movie Bangla
+https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/%26TV_Transparent_c5cc189b-8493-48d2-b07c-3fa4f92d754a.png" tvg-chno="286" group-title="Indian Entertainment",&TV
+https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 

@@ -52,8 +52,8 @@ https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLA",Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sumon",ZEE Cinema
-https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
+#EXTINF:-1 tvg-chno="338" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Movies",Zee Cinema HD APAC
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sumon",ZEE Bangla
 https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
@@ -121,3 +121,20 @@ https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/%26TV_Transparent_c5cc189b-8493-48d2-b07c-3fa4f92d754a.png" tvg-chno="286" group-title="Indian Entertainment",&TV
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Entertainment",Zee TV HD APAC
+https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_2500/chunks.m3u8
+
+#EXTINF:-1 tvg-id="star_plus_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR PLUS HD1745038577.png" group-title="Hindi",STAR PLUS HD
+http://38.96.178.205/STARPLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="United Kingdom",Utsav Bharat (720p)
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TERVtWT.png" group-title="United Kingdom",Utsav Plus (720p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Entertainment",Zee TV HD
+http://38.96.178.205/ZEE_TV/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="JioTV+ | Movies",Star Gold 2 HD
+http://107.167.16.138/stargold2/index.m3u8?token=test

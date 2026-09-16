@@ -33,8 +33,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/desh-tv.png" group-title="SM_IPTV",Desh TV
-http://livetv.akr4m.com:8080/bdtv/restrem/18.m3u8
-https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/500px-Channel9_bd.svg.png" group-title="Channels",Channel 9
 #http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
@@ -191,9 +190,6 @@ https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/8Q8MCd6ypr2Hzbp60VE_stJPl063kQYfeTxdIQkAXRfhdzxByLl0sJYHsk43uTM4W_cOzwcbPQ=s160-c-k-c0x00ffffff-no-rj",123.Channel 24
 https://stream.ottplus.live/live/channel_24_abr/index.m3u8
-
-#EXTINF:-1 tvg-id="nexustv" tvg-name="Nexus TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvCrlb7xmKGKrsrDbJSJ8hGTlvEidzrp29PJz60DT7KjVt4QzG2Yzd7I&s=10.png" group-title="BANGLA",147.Nexus TV
-https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="SET-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SET HD
 http://38.96.178.205/SONYHD/index.m3u8

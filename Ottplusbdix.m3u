@@ -120,6 +120,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25082.m3u8
 https://flussonic.defineatoz.com/somoy1/index.m3u8?token=b73d29bb194d96c48900446ea875df7df78ece98-794472f6e3fd0954c3a76dc8da74ae6c-1781458548-1781447748&remote=103.114.23.14
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="",Duronto TV
+https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png"group-title="",Sony YaY!
@@ -150,7 +151,7 @@ http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Discovery BANGLA HD
-http://sm-monirul.xyz/@monirul_Islam_SM/exp.php?id=discovery_bangla&sm=.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
 
 #EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png" tvg-language="Hindi" group-title="Infotainment", History TV18 HD Hindi
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8

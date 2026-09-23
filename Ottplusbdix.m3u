@@ -149,7 +149,8 @@ http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.exchange4media.com/news-photo/112560-pic161.jpg" group-title="KIDS", ETV BAL BHARAT
 http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Discovery
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Discovery BANGLA HD
+http://sm-monirul.xyz/@monirul_Islam_SM/exp.php?id=discovery_bangla&sm=.m3u8
 
 #EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png" tvg-language="Hindi" group-title="Infotainment", History TV18 HD Hindi
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
